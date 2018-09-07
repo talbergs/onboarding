@@ -17,4 +17,10 @@ By abusing githubs templating feature.
 - Meanwhile referencing that HEAD SHA link in the list (for lookup).
 - List must not be completed in any particulal sequence.
 
+on new lang:
+`git checkout --orphan <lang> fresh`
+before every next checkbox:
+`git push --force origin fresh:<lang> && git checkout fresh`
+before writing down sha-ref into issue for later lookup:
+`git push origin <lang>`
 
