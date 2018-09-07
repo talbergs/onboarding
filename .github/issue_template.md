@@ -1,0 +1,11 @@
+- [ ] 20 min read on history.
+- [ ] Implement hello world.
+- [ ] Parse some JSON and YAML
+- [ ] Create some concurrency example app (i.e. ).
+- [ ] Implement web socket (basic web chat app).
+- [ ] Do some multithreading.
+- [ ] Read a file. (into bufferer and streamed processing).
+- [ ] Read user input. Create tui (cli) app.
+- [ ] Create gui app. (with keyboard interaction).
+- [ ] Create process (invoke, fork, replace some process on host).
+
